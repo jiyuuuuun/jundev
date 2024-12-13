@@ -11,13 +11,13 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest # ubuntu 최신 버전 사용
+    runs-on: ubuntu-20.04 # ubuntu 최신 버전 사용
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python 3.7
       uses: actions/setup-python@v2
       with:
-        python-version: '3.7' # 사용하고 싶은 버전 사용해도 상관 x
+        python-version: '3.9' # 사용하고 싶은 버전 사용해도 상관 x
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
