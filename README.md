@@ -1,5 +1,7 @@
 # jjiyuuuuun.tistory.com
 ## blog posts
+[[JAVA] 디자인 패턴](https://jjiyuuuuun.tistory.com/41) - Dec 30, 2024<br>
+[241230 TIL](https://jjiyuuuuun.tistory.com/40) - Dec 30, 2024<br>
 [241227 TIL](https://jjiyuuuuun.tistory.com/38) - Dec 27, 2024<br>
 [241226 TIL](https://jjiyuuuuun.tistory.com/37) - Dec 26, 2024<br>
 [241223 TIL](https://jjiyuuuuun.tistory.com/36) - Dec 24, 2024<br>
@@ -8,5 +10,3 @@
 [241219 TIL](https://jjiyuuuuun.tistory.com/33) - Dec 19, 2024<br>
 [241218 [멋쟁이사자처럼 부트캠프 TIL 회고] Back-End school](https://jjiyuuuuun.tistory.com/32) - Dec 18, 2024<br>
 [241217 [멋쟁이사자처럼 부트캠프 TIL 회고] Back-End school](https://jjiyuuuuun.tistory.com/31) - Dec 17, 2024<br>
-[241216 [멋쟁이사자처럼 부트캠프 TIL 회고] Back-End school](https://jjiyuuuuun.tistory.com/30) - Dec 16, 2024<br>
-[241213 [멋쟁이사자처럼 부트캠프 TIL 회고] Back-End school](https://jjiyuuuuun.tistory.com/29) - Dec 13, 2024<br>
