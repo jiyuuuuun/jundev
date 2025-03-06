@@ -1,5 +1,6 @@
 # jjiyuuuuun.tistory.com
 ## blog posts
+[250305 TIL](https://jjiyuuuuun.tistory.com/77) - Mar 05, 2025<br>
 [250304 TIL](https://jjiyuuuuun.tistory.com/76) - Mar 04, 2025<br>
 [250228 TIL](https://jjiyuuuuun.tistory.com/75) - Feb 28, 2025<br>
 [250227 TIL](https://jjiyuuuuun.tistory.com/74) - Feb 27, 2025<br>
@@ -9,4 +10,3 @@
 [250221 TIL](https://jjiyuuuuun.tistory.com/70) - Feb 21, 2025<br>
 [250220 TIL](https://jjiyuuuuun.tistory.com/69) - Feb 20, 2025<br>
 [250219 TIL](https://jjiyuuuuun.tistory.com/68) - Feb 19, 2025<br>
-[250218 TIL](https://jjiyuuuuun.tistory.com/67) - Feb 18, 2025<br>
