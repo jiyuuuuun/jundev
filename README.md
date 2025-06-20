@@ -1,5 +1,6 @@
 # jjiyuuuuun.tistory.com
 ## blog posts
+[[PRMemo] GitHub Webhook vs 배치 프로그램](https://jjiyuuuuun.tistory.com/100) - Jun 19, 2025<br>
 [디자인 패턴](https://jjiyuuuuun.tistory.com/99) - Jun 17, 2025<br>
 [프로젝트 회고 : Juseyo - 재고 관리 플랫폼](https://jjiyuuuuun.tistory.com/98) - Jun 05, 2025<br>
 [TDD- 테스트 주도 개발(Test Driven Development)](https://jjiyuuuuun.tistory.com/97) - Jun 05, 2025<br>
@@ -9,4 +10,3 @@
 [EC2 배포 과정 (테라 폼&amp;깃 허브 액션)](https://jjiyuuuuun.tistory.com/93) - May 28, 2025<br>
 [StringToStatusConverter](https://jjiyuuuuun.tistory.com/92) - May 10, 2025<br>
 [[Spring RestTemplate 오류 해결] &ndash; 공공 API 호출 시 &ldquo;등록되지 않은 인증키&rdquo; 문제 해결 과정](https://jjiyuuuuun.tistory.com/91) - May 10, 2025<br>
-[[level 1] 달리기 경주 - 178871](https://jjiyuuuuun.tistory.com/90) - May 06, 2025<br>
