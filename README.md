@@ -1,5 +1,6 @@
 # jjiyuuuuun.tistory.com
 ## blog posts
+[[level 1] 체육복 - 42862](https://jjiyuuuuun.tistory.com/102) - Jun 29, 2025<br>
 [프로그래밍 패러다임](https://jjiyuuuuun.tistory.com/101) - Jun 20, 2025<br>
 [[PRMemo] GitHub Webhook vs 배치 프로그램](https://jjiyuuuuun.tistory.com/100) - Jun 19, 2025<br>
 [디자인 패턴](https://jjiyuuuuun.tistory.com/99) - Jun 17, 2025<br>
@@ -9,4 +10,3 @@
 [NPM 설정](https://jjiyuuuuun.tistory.com/95) - May 28, 2025<br>
 [도메인 등록](https://jjiyuuuuun.tistory.com/94) - May 28, 2025<br>
 [EC2 배포 과정 (테라 폼&amp;깃 허브 액션)](https://jjiyuuuuun.tistory.com/93) - May 28, 2025<br>
-[StringToStatusConverter](https://jjiyuuuuun.tistory.com/92) - May 10, 2025<br>
